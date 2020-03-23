@@ -1,0 +1,22 @@
+{
+  "name": "sequelize-practice",
+  "version": "1.0.0",
+  "description": "Practicing Sequelize",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghmd86/sequelize-practice.git"
+  },
+  "keywords": [
+    "sequelize"
+  ],
+  "author": "Ghulam Mohammed Taher",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ghmd86/sequelize-practice/issues"
+  },
+  "homepage": "https://github.com/ghmd86/sequelize-practice#readme"
+}
